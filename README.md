@@ -1,0 +1,1 @@
+An automation test has been done in the process of purchasing a book from the Rokomari website by selecting an author, filtering categories, adding a book to the cart, and lastly proceed the shipping process by providing the necessary information.
